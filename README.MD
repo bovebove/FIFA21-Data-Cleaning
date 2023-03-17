@@ -1,4 +1,4 @@
-# Data Cleaning Challenge : FIFA2021
+# FIFA2021 Data Cleaning : 
 
 ## Introduction
 A #datacleaningchallenge was organized recently in the data tech space which gave newbies and intermediate learners the opportunity to work on a data cleaning project. The challenge encouraged every participant to flex their data cleaning skill using any of their preferred tool (e.g, Powerquery, Excel, Python, R, SQL, Google sheets).
